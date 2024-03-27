@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+  background-color: aqua;
+}
+
+#map {
+  width: 90%;
+  height: 40rem;
+  border: 1px solid #ccc;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: azure;
+}
+
+form {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.h2 {
+  text-align: center;
+}
